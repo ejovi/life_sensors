@@ -9,3 +9,9 @@ Collection of tools and scripts for automating extraction of facial vectors from
 
 + content_organization
 ...Best practices for organizing content to archiving and future analysis.
+
+
+
+Ejovi Nuwere
+http://www.ejovi.net
+
